@@ -12,7 +12,7 @@ Architecture:
 Clean Architecture + MVVM
 
 Technologies:
-hilt
-courotines
-flows
+hilt,
+courotines,
+flows,
 Jetpack compose
