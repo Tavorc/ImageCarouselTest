@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image Carousel Test</string>
+    <string name="drag_image_explanation">Drag images from the carousel below to the canvas above</string>
+</resources>
